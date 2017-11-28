@@ -1,0 +1,18 @@
+{
+  "name": "OrtopediaCostaRica",
+  "version": "1.0.0",
+  "description": "Sitio web para la asociacion de medicos ortopedistas de Costa Rica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos Alvarado Solis",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^4.6.2"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/charlangaOfficial/ortopediacostarica"
+  },
+}
