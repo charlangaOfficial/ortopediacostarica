@@ -1,7 +1,7 @@
 {
   "name": "OrtopediaCostaRica",
   "version": "1.0.0",
-  "description": "Sitio web para la asociacion de medicos ortopedistas de Costa Rica",
+  "description": "Sitio web para la asociacion de medicos ortopedicos de Costa Rica",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
